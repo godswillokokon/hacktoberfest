@@ -1,4 +1,9 @@
 #### Name: Vallenain
+ - Place: Calabar, Nigeria
+ - Bio: Computer science. Student from Crutech, Calabar Campus, Nigeria.
+ - GitHub: [godswillokokon](https://github.com/godswillokokon)
+
+#### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
